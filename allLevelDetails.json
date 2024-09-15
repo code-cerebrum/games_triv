@@ -1,5 +1,8 @@
 [
     {"name": "Mobile 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
     {"name": "Mobile 2", "lvls": 20, "cost": 300, "star": 17, "cover": 0},
-    {"name": "Console 1", "lvls": 20, "cost": 5, "star": 10, "cover": 0}
+    {"name": "Console 1", "lvls": 20, "cost": 500, "star": 34, "cover": 0},
+    {"name": "Mobile 3", "lvls": 20, "cost": 700, "star": 54, "cover": 0},
+    {"name": "Console 2", "lvls": 20, "cost": 900, "star": 78, "cover": 0},
+    {"name": "Retro 1", "lvls": 20, "cost": 1200, "star": null, "cover": 0}
 ]
